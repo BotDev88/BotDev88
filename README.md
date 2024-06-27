@@ -74,3 +74,4 @@ I am interested in too many things spanning the realms of hacking, programming l
 <details>
  <summary><h3>👨‍💻 My Journey</h3></summary>
    My ultimate goal is to learn as many programming languages as possible in the next 6 months while working full-time from 7:00 AM to 5:00 PM weekdays, fulfilling my roles as a husband and father. I want to secure a better future for my family and ultimately immigrate overseas to secure a future for my kids. All of this, and learning another language besides English. 
+   </details>
