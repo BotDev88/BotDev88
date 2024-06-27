@@ -51,7 +51,7 @@ I am interested in too many things spanning the realms of hacking, programming l
 
 </details>
 
----
+#
 
 ### 🧰 Languages and Tools
 
